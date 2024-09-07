@@ -1,0 +1,1 @@
+list_example = [["aa2013, xdlol, off"] ["aa2015", "something", "on"]]
